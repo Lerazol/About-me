@@ -1,4 +1,4 @@
-![фото](C:\Users\MyPC\Desktop\ДЗ в Нетологии\GitHub Pages\photo_2023-11-03_10-22-17.jpg)
+![фото](C:\Users\MyPC\Desktop\ДЗ в Нетологии\GitHub Pages\image\photo_2023-11-03_10-22-17.jpg)
 
 **Обо мне**
 
